@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m currently learning on Liceo Scientifico G.Galilei 
 <!--
 **annadalcorso/annadalcorso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
